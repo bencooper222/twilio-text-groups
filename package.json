@@ -1,0 +1,15 @@
+{
+  "name": "twilio-text-groups",
+  "version": "1.0.0",
+  "description": "Text groups of people with specific messages",
+  "main": "index.js",
+  "author": "Benjamin Cooper",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "twilio": "^3.8.1"
+  }
+}
